@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 
+=======
+content
+added content
+added content is added in main
+how to pull and push
+>>>>>>> b9a13e1 (added in main)
